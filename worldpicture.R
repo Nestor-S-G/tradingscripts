@@ -9,7 +9,7 @@ etf_names <- c(
   "TLT" = "$ 20+ Year Treasury Bond", "TIP" = "TIPS $", "XAD3.MI" = "Platinum", "SPY2.DE" = "Global Real Estate",
   "XAD6.MI" = "Silver", "VUSA.DE" = "S&P 500", "LYP6.DE" = "Eurostoxx 600", "ZPRA.DE" = "Asian Dividend Aristocrats",
   "IBCI.DE" = "TIPS €", "EXI5.DE" = "European Real Estate", "UKPH.DE" = "UK Real Estate", "AYEP.DE" = "Asian Real Estate",
-  "BTC-EUR" = "BTC/€", "LTC-EUR" = "LTC/€", "ETH-EUR" = "ETH/€", "ADA-EUR" = "ADA/€", , "QDVP.DE" = "US MBS", "NUCL.L" = "Nuclear & Uranium",
+  "BTC-EUR" = "BTC/€", "LTC-EUR" = "LTC/€", "ETH-EUR" = "ETH/€", "ADA-EUR" = "ADA/€", "QDVP.DE" = "US MBS", "NUCL.L" = "Nuclear & Uranium",
   "DFEN.DE" = "Defense", "QNTM.L" = "Quantum Computing", "JEDI.L" = "Space Innovators", "ESPO.L" = "Videogaming & eSports",
   "REMX.L" = "Rare Earth & Stategic Metals", "HDRO.L" = "H2", "KRW.PA" = "Korea", "6C=F" = "Canadian Dollar",
    "6A=F" = "Australian Dollar", "6N=F" = "New Zealand Dollar", "6M=F" = "Mexican Peso", "IS0E.DE" = "Gold producers"
